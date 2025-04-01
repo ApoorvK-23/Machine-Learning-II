@@ -8,3 +8,4 @@ beautifulsoup4
 lxml[html_clean]
 pymupdf
 googlesearch-python
+PyPDF2
