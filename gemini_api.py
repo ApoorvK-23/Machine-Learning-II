@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 
 
-load_dotenv()
+
 
 GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent"
