@@ -1,0 +1,9 @@
+streamlit
+requests
+PyMuPDF
+faiss-cpu
+sentence-transformers
+newspaper3k
+beautifulsoup4
+lxml
+pymupdf
